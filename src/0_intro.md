@@ -10,3 +10,5 @@ Faz parte do objetivo deste documento que ele seja preservado e atualizado de ge
 - Seja sucinto.
 - Em vez de escrever texto sobre informações que já estão disponíveis nos sites da FCT, do ITEC ou da UFPA, prefira apenas referenciar (linkar) os endereços.
 - Utilize bem as estruturas de marcação do HTML (headers, bullets…).
+
+Olá mundo :)
